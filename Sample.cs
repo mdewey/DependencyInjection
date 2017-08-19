@@ -7,3 +7,7 @@
 //         }
 //     }
 // }
+
+// var service = new Sample();
+// var sender = new EmailSender();
+// service.SendEmail(sender);
